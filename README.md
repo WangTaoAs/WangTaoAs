@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangTaoAs&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangTaoAs&theme=dracula&layout=compact" />
 </a>
 
 <!-- <img align=right src='https://github-readme-stats.vercel.app/api/pin/?username=WangTaoAs&repo=PFD_Net&theme=dracula'>
